@@ -1,0 +1,2 @@
+markdownguide.org/basic-syntax/
+https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
